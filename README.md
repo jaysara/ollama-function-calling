@@ -1,4 +1,4 @@
-# ollamda-function-calling
+# ollama-function-calling
 This proejct demonstrates use of function calling using Ollama modelss
 The Python code demonstrates a comprehensive workflow for utilizing function calling with Ollama's AsyncClient to perform tasks like categorizing grocery items, fetching price and nutrition data, and generating recipes for categorized food items. Here's an enhanced explanation:
  
